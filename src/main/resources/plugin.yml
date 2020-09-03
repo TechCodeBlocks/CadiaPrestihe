@@ -1,0 +1,4 @@
+name: Cadia_prestige
+version: ${project.version}
+main: benjaminsolomons.cadia_prestige.Cadia_prestige
+description: Basic Prestige plugin for Craft Cadia
